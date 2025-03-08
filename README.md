@@ -18,7 +18,7 @@ Welcome to the Pomodoro Timer App! This minimalist and portable application is d
    - Ensure you have Java Development Kit (JDK) installed on your system. You can download it from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
 
 2. **Download the application**:
-   - Navigate to the [releases page](https://github.com/your-repo/pomodoro-timer-app/releases) and download the latest JAR file.
+   - Navigate to the [releases page](https://github.com/gaurav-null/java-minimal-pomodoro-timer/releases) and download the latest JAR file.
 
 3. **Run the application**:
    - Double click the file
