@@ -1,4 +1,3 @@
-Got it! Here's the updated README file for your Java Swing Pomodoro app, highlighting the installation using the JAR file from the release page:
 
 ---
 
