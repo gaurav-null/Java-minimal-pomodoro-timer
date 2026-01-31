@@ -29,5 +29,3 @@ Welcome to the Pomodoro Timer App! This minimalist and portable application is d
 3. **Start timer**: Click on the start button to begin your Pomodoro session.
 4. **Notifications**: Receive visual notifications when it's time to take a break or start a new session.
 
-## Future Work
-We aim to continue improving the application by adding features such as task management, detailed statistics, and enhanced notifications. Stay tuned for updates and new features!
